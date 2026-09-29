@@ -1,0 +1,6 @@
+{
+  "name": "NovaStore - E-Commerce Platform",
+  "description": "Full-stack e-commerce platform with secure checkout, authoritative pricing, role-based administration, verified reviews, and inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
